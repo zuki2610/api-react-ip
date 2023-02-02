@@ -136,6 +136,9 @@ const Menu = (props) => {
                 <Nav.Link>Productos</Nav.Link>
               </LinkContainer>
               <Nav.Link href="#footer">About Us</Nav.Link>
+              <LinkContainer to="/api-react-ip/miapi">
+                <Nav.Link>Personajes</Nav.Link>
+              </LinkContainer>
               <LinkContainer to="/api-react-ip/login">
                 <Nav.Link>Login</Nav.Link>
               </LinkContainer>
