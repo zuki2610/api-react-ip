@@ -44,7 +44,7 @@ const MiApi = () => {
           onChange={handleSearch}
         />
       </Form>
-      <div className= "d-flex justify-content-center mt-5 mb-5">
+      <div className= "contenedor">
         <Row className="m-0 row">
       {superHeroes.map(superhero => (
         <Col key={superhero.id} xs={12} md={6} lg={4}>
