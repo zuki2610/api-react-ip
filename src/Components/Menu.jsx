@@ -125,18 +125,18 @@ const Menu = (props) => {
         </Modal>
         <Navbar bg="dark" variant="dark">
           <Container>
-            <LinkContainer to="/renderizacion_react/home">
+            <LinkContainer to="/api-react-ip/home">
               <Navbar.Brand>Toy Store</Navbar.Brand>
             </LinkContainer>
             <Nav className="me-auto">
-              <LinkContainer to="/renderizacion_react/home">
+              <LinkContainer to="/api-react-ip/home">
                 <Nav.Link>Home</Nav.Link>
               </LinkContainer>
-              <LinkContainer to="/renderizacion_react/productos">
+              <LinkContainer to="/api-react-ip/productos">
                 <Nav.Link>Productos</Nav.Link>
               </LinkContainer>
               <Nav.Link href="#footer">About Us</Nav.Link>
-              <LinkContainer to="/renderizacion_react/">
+              <LinkContainer to="/api-react-ip/login">
                 <Nav.Link>Login</Nav.Link>
               </LinkContainer>
               <LinkContainer

@@ -2,6 +2,7 @@ import React from "react";
 import "../index.css";
 import Header from "./Header";
 import Cards from "./Cards";
+import 'bootstrap/dist/css/bootstrap.min.css';
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Container from "react-bootstrap/Container";
