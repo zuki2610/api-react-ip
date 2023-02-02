@@ -11,7 +11,7 @@ Login te llevará directo a ocupar una clave y contraseña prediseñadas (lee at
 Buscar dirige a un buscador de productos disponibles <br/>
 
 *ENLACE DISPONIBLE EN:* <br/>
-https://zuki2610.github.io/api-react-ip/miapi <br/>
+https://zuki2610.github.io/api-react-ip/ <br/>
 
 ![image](https://user-images.githubusercontent.com/110415057/216370313-f3451284-da19-4a86-959f-f1fbe62f89eb.png)
 ![image](https://user-images.githubusercontent.com/110415057/215352293-d924a0f5-d1c4-4f82-ae70-a198dceab9a5.png)
