@@ -75,7 +75,7 @@
     {
         "id": "13",
         "name": "Carol Danvers",
-        "imagen": "https://static.wikia.nocookie.net/marveldatabase/images/6/63/Ms._Marvel_Vol_1_1.jpg/revision/latest?cb=20191109192311",
+        "imagen": "https://cdnx.jumpseller.com/kandor-comics/image/16585012/ms_marvel.jpg?1621382268",
         "comic": "Marvel Super-Heroes 13 1968"
     },
     {
@@ -87,13 +87,13 @@
     {
         "id": "15",
         "name": "Loki Laufeyson",
-        "imagen":"https://static.wikia.nocookie.net/marveldatabase/images/d/d1/Loki_from_Thor_Vol_1_384.jpg/revision/latest?cb=20110319125104",
+        "imagen":"https://lumiere-a.akamaihd.net/v1/images/loki_marvel_002_76935ebd.jpeg?region=220,0,400,400",
         "comic": "Journey into Mystery 85 1962"
     },
     {
         "id": "16",
         "name": "Bucky Barnes",
-        "imagen":"https://static.wikia.nocookie.net/marveldatabase/images/c/cd/Captain_America_Vol_5_14_Textless.jpg/revision/latest?cb=20160904054757",
+        "imagen":"https://i1.whakoom.com/large/3c/24/ea5ffb18e478466ebf4e60e2e3de1c26.jpg",
         "comic": "Captain America 1 1941"
     },
     {
@@ -141,7 +141,7 @@
     {
         "id": "24",
         "name": "Galactus",
-        "imagen":"https://static.wikia.nocookie.net/marveldatabase/images/8/8c/Fantastic_Four_Vol_1_49.jpg/revision/latest?cb=20220216164654",
+        "imagen":"https://sm.ign.com/ign_latam/screenshot/default/galactus2_guux.jpg",
         "comic": "Fantastic Four 48 1966"
     },
     {
@@ -159,7 +159,7 @@
     {
         "id": "27",
         "name": "Nebula",
-        "imagen":"https://static.wikia.nocookie.net/marvelall/images/3/3a/19136.jpg/revision/latest?cb=20130830222024&path-prefix=es",
+        "imagen":"https://www.refinery29.com/images/8791373.jpg",
         "comic": "The Avengers 1985"
     },
     {
@@ -238,5 +238,17 @@
         "name": "Tesseract",
         "imagen":"https://www.cinepremiere.com.mx/wp-content/uploads/2019/05/Loki-Teseracto.jpg",
         "comic": "Tales of Suspense 1966"
-    }     
+    },
+    {
+        "id": "41",
+        "name": "Iron Man",
+        "imagen":"https://www.latercera.com/resizer/8XhGuN9BXXgED_Txu-PJwG2r06c=/arc-anglerfish-arc2-prod-copesa/public/MZGGX7HRMJFGRDR4TQ2JIIFVSY.jpg",
+        "comic": "Tales of Suspense 1963"
+    },
+    {
+        "id": "42",
+        "name": "Captain America",
+        "imagen":"https://cdn-e360.s3-sa-east-1.amazonaws.com/chris-evans-vuelve-como-el-capitan-america-esto-es-lo-que-sabemos-large-PuLJ8uJrzA.jpg",
+        "comic": "Captain America Comics 1941"
+    }
 ]
