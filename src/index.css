@@ -11,19 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.form-title {
+  display: flex;
+}
 .App {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
 }
 
 .App-header {
@@ -45,7 +37,26 @@ code {
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.App {
+  padding-left: 3vw;
+}
+
+.home {
+  height: 100vh;
+}
+
+.password {
+  height: 100vh;
+  width: 40vw;
+  margin-left: 20vw;
+}
+
+.marvel {
+  padding-bottom: 12vh;
 }
