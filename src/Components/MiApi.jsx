@@ -43,7 +43,7 @@ const MiApi = () => {
         <Row className="m-0 row">
       {superHeroes.map(superhero => (
         <Col key={superhero.id} xs={12} md={6} lg={4}>
-          <Card  style={{ width: '18rem', height: '54vh' }} className="mb-5 ms-5 flip-scale-up-ver">
+          <Card  style={{ width: '18rem', height: '54vh' }} className="mb-5 ms-5 flip-scale-up-ver card">
             <Card.Body className="bg-secondary text-light">
               <Image src={superhero.imagen} alt={superhero.name} variant="top" className="rounded mb-4 p-0" fluid style={{ width: '18rem', height: '34vh' }}/>
               <Card.Title>{superhero.name}</Card.Title>
