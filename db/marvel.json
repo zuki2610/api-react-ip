@@ -1,0 +1,254 @@
+[
+     {
+        "id": "1",
+        "name": "Tony Stark",
+        "imagen": "https://i.annihil.us/u/prod/marvel/i/mg/6/10/5d54221d1cb96/clean.jpg",
+        "comic": "Iron Man 1963"
+    },
+    {
+        "id": "2",
+        "name": "Steve Rogers",
+        "imagen": "https://www.hollywoodreporter.com/wp-content/uploads/2016/01/captainamerica_steverogers-cov0011.jpg?w=3000",
+        "comic": "Captain America 1941"
+    },
+    {
+        "id": "3",
+        "name": "Thor Odinson",
+        "imagen": "https://www.writeups.org/wp-content/uploads/Thor-Marvel-Comics-Odinson-Profile.jpg",
+        "comic": "Journey into Mystery 83 1962"
+
+    },
+    { 
+        "id": "4",
+        "name": "Bruce Banner",
+        "imagen": "https://i.pinimg.com/originals/1f/6b/33/1f6b338c3140abbba716526c0860b326.jpg",
+        "comic": "The Incredible Hulk 1962"
+    },
+    {
+        "id": "5",
+        "name": "Natasha Romanoff",
+        "imagen": "https://m.media-amazon.com/images/I/612u+OtkohL.jpg",
+        "comic": "Tales of Suspense 52 1964"
+    },
+    {
+        "id": "6",
+        "name": "Clint Barton",
+        "imagen": "https://comicyears.com/wp-content/uploads/2023/01/Who-is-Hawkeye.jpg",
+        "comic": "Tales of Suspense 57 1964"
+    },
+    {
+        "id": "7",
+        "name": "Peter Parker",
+        "imagen": "https://i.annihil.us/u/prod/marvel/i/mg/d/40/5196582d03800/clean.jpg",
+        "comic": "Amazing Fantasy 15 1962"
+    },
+    {
+        "id": "8",
+        "name": "Scott Lang",
+        "imagen": "https://i.ebayimg.com/images/g/BCsAAOSwv-VhtJAQ/s-l500.jpg",
+        "comic": "Avengers 1963"
+    },
+    { 
+        "id": "9",
+        "name": "Wanda Maximoff",
+        "imagen": "https://www.hollywoodreporter.com/wp-content/uploads/2015/04/scarlet_witch.jpg?w=3000",
+        "comic": "Tales of Suspense 79 1964"
+    },
+    { 
+        "id": "10",
+        "name": "T'Challa",
+        "imagen": "http://2.bp.blogspot.com/-9k10UhB2SA0/VPEGWfpOgXI/AAAAAAAAEEs/SNF3uHftu14/s1600/latest.jpg",
+        "comic": "Fantastic Four 52 1966"
+    },
+    {
+        "id": "11",
+        "name": "Stephen Strange",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbq_YlXTXYX1rtUvBieryBH6VMrjWxvT7yrj_sqffeCKMXuMU-er0yhcndPP58rjBGqe4&usqp=CAU",
+        "comic": "Strange Tales 110 1963"
+    },
+    {
+        "id": "12",
+        "name": "Sam Wilson",
+        "imagen": "https://media.comicbook.com/2021/04/captain-america-25-sam-wilson-cap-1264897.jpeg?auto=webp&width=928&height=1426&crop=928:1426,smart",
+        "comic": "Captain America 117 1968"
+    },
+    {
+        "id": "13",
+        "name": "Carol Danvers",
+        "imagen": "https://cdnx.jumpseller.com/kandor-comics/image/16585012/ms_marvel.jpg?1621382268",
+        "comic": "Marvel Super-Heroes 13 1968"
+    },
+    {
+        "id": "14",
+        "name": "James Rhodes",
+        "imagen":"https://comicattack.net//wp-content/uploads/2011/03/warmachine1.jpg",
+        "comic": "Iron Man 1979"
+    },
+    {
+        "id": "15",
+        "name": "Loki Laufeyson",
+        "imagen":"https://lumiere-a.akamaihd.net/v1/images/loki_marvel_002_76935ebd.jpeg?region=220,0,400,400",
+        "comic": "Journey into Mystery 85 1962"
+    },
+    {
+        "id": "16",
+        "name": "Bucky Barnes",
+        "imagen":"https://i1.whakoom.com/large/3c/24/ea5ffb18e478466ebf4e60e2e3de1c26.jpg",
+        "comic": "Captain America 1 1941"
+    },
+    {
+        "id": "17",
+        "name": "Natalia Alianovna Romanova",
+        "imagen":"https://www.writeups.org/wp-content/uploads/Black-Widow-Marvel-Comics-Natalia-Romanova-2.jpg",
+        "comic": "Tales of Suspense 52 1964"
+    },
+    {
+        "id": "18",
+        "name": "Scott Summers",
+        "imagen":"https://qph.cf2.quoracdn.net/main-qimg-71fe00c22907fcacddb4c56067aebf11-pjlq",
+        "comic":"The X-Men 1963"
+    },
+    {
+        "id": "19",
+        "name": "Jean Grey",
+        "imagen":"https://upload.wikimedia.org/wikipedia/en/5/5e/XMen135.jpg",
+        "comic": "The X-Men 1963"
+    },
+    {
+        "id": "20",
+        "name": "Odin",
+        "imagen":"https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/T-294.jpg/175px-T-294.jpg",
+        "comic": "Journey into Mystery 86 1962"
+    },
+    {
+        "id": "21",
+        "name": "The Vision",
+        "imagen":"https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Avengers57.jpg/170px-Avengers57.jpg",
+        "comic": "The Avengers 1968"
+    },
+    {
+        "id": "22",
+        "name": "Thanos",
+        "imagen":"https://i.annihil.us/u/prod/marvel/i/mg/9/50/547e107c2f6ae/clean.jpg",
+        "comic":"The Invincible Iron Man 1973"
+    },
+    {
+        "id": "23",
+        "name": "Hela",
+        "imagen":"https://i.annihil.us/u/prod/marvel/i/mg/c/a0/57431fe8bdfc3/clean.jpg",
+        "comic": "Journey into Mystery 83 1964"
+    },
+    {
+        "id": "24",
+        "name": "Galactus",
+        "imagen":"https://sm.ign.com/ign_latam/screenshot/default/galactus2_guux.jpg",
+        "comic": "Fantastic Four 48 1966"
+    },
+    {
+        "id": "25",
+        "name": "Okoye",
+        "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN7O-IAFvAATy4PPIxOiL76eiRyzqq1v4SAQ&usqp=CAU",
+        "comic": "Black Panther 1999"
+    },
+    {
+        "id": "26",
+        "name": "Venom",
+        "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaf4slj7dQgWwT045O6E_dIEC8LzpadSpZWw&usqp=CAU",
+        "comic": "The Amazing Spider-Man 1988"
+    },
+    {
+        "id": "27",
+        "name": "Nebula",
+        "imagen":"https://www.refinery29.com/images/8791373.jpg",
+        "comic": "The Avengers 1985"
+    },
+    {
+        "id": "28",
+        "name": "Uncle May",
+        "imagen":"https://comicvine.gamespot.com/a/uploads/original/0/40/76100-76614-aunt-may.png",
+        "comic": "Amazing Fantasy 15 1962"
+    },
+    {
+        "id": "29",
+        "name": "Uatu",
+        "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi2WuTOAmx3za5brsyFt2oL7Q15b2b3Fc82zJeobei9-j4jdwtv85_SJC6R9tYZOPj05Y&usqp=CAU",
+        "comic": "The Fantastic Four 1963"
+    },
+    {
+        "id": "30",
+        "name": "Mantis",
+        "imagen":"https://upload.wikimedia.org/wikipedia/en/8/8c/Mantismadona.jpg",
+        "comic": "The Avengers 1973"
+    },
+    {
+        "id": "31",
+        "name": "Mephisto",
+        "imagen":"https://bleedingcool.com/wp-content/uploads/2021/08/Silver-Surfer-3-CGC.-Credit-Heritage-Auctions-1200x900.jpeg",
+        "comic":"The Silver Surfer 1968"
+    },
+    {
+        "id": "32",
+        "name": "Jane Foster",
+        "imagen":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Cover_of_Thor_4-1.jpg/182px-Cover_of_Thor_4-1.jpg",
+        "comic": "Journey into Mystery 1952"
+    },
+    {
+        "id": "33",
+        "name": "Sif",
+        "imagen":"https://i.annihil.us/u/prod/marvel/i/mg/3/80/5e5835cd50309/portrait_uncanny.jpg",
+        "comic": "Journey into Mystery 1964"
+    },
+    {
+        "id": "34",
+        "name": "Shehulk",
+        "imagen":"https://i.annihil.us/u/prod/marvel/i/mg/c/00/4babed410c597/background.jpg",
+        "comic": "The Savage She-Hulk 1980"
+    },
+    {  "id": "35",
+        "name": "Loki Presidente",
+        "imagen":"https://www.geekmi.news/__export/1629925988921/sites/debate/img/2021/08/25/disexo_x20x.jpg_554688468.jpg",
+        "comic": "The Avengers 2016"
+    },
+    {
+        "id": "36",
+        "name": "Lady Loki",
+        "imagen":"https://bleedingcool.com/wp-content/uploads/2021/05/STL196227-1200x900.jpg",
+        "comic": "Avengers: Disassembled 2008"
+    },
+    {
+        "id": "37",
+        "name": "ARC Reactor",
+        "imagen":"https://i.pinimg.com/1200x/64/d2/66/64d266b0ce7e3819d061cc284b4d3657.jpg",
+        "comic": "Tales of Suspense 1963"
+    },
+    {
+        "id": "38",
+        "name": "The Collector",
+        "imagen":"https://www.writeups.org/wp-content/uploads/Collector-Elders-of-the-Universe-Marvel-Comics-Avengers.jpg",
+        "comic": "The Avengers 1966"
+    },
+    {
+        "id": "39",
+        "name": "The Watcher",
+        "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyTxBTq3FSexIQ_o2YNSrgv9RlBZ_sLBUouvhObgChyDEOAWIjjOFu3dZ8dbRhuAs9N9s&usqp=CAU",
+        "comic": "The Fantastic Four 1963"
+    },
+    {
+        "id": "40",
+        "name": "Tesseract",
+        "imagen":"https://www.cinepremiere.com.mx/wp-content/uploads/2019/05/Loki-Teseracto.jpg",
+        "comic": "Tales of Suspense 1966"
+    },
+    {
+        "id": "41",
+        "name": "Iron Man",
+        "imagen":"https://www.latercera.com/resizer/8XhGuN9BXXgED_Txu-PJwG2r06c=/arc-anglerfish-arc2-prod-copesa/public/MZGGX7HRMJFGRDR4TQ2JIIFVSY.jpg",
+        "comic": "Tales of Suspense 1963"
+    },
+    {
+        "id": "42",
+        "name": "Captain America",
+        "imagen":"https://cdn-e360.s3-sa-east-1.amazonaws.com/chris-evans-vuelve-como-el-capitan-america-esto-es-lo-que-sabemos-large-PuLJ8uJrzA.jpg",
+        "comic": "Captain America Comics 1941"
+    }
+]
