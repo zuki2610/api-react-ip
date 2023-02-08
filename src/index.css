@@ -200,3 +200,10 @@ code {
 .contenedor {
   margin-left: 4.5vw;
 }
+.label {
+  display: flex;
+  flex-direction: row;
+  gap: 9vw;
+  margin-left: 4vw;
+  padding-bottom: 8vh;
+}
